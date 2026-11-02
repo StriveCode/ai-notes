@@ -1,5 +1,11 @@
 # 绑定阿里云购买的域名
 
+## 当前使用的域名
+
+当前沿用用户主页的 `www.sunjiabao.cn`，博客路径为 `/ai-notes/`。检查时 `www.sunjiabao.cn` 返回 NXDOMAIN，阿里云 DNS 需要添加 `www` → `strivecode.github.io` 的 CNAME 记录。新博客仓库不单独设置相同 CNAME，以保留 GitHub 用户主页域名的继承关系。恢复解析后再检查 GitHub 用户主页的 HTTPS 证书状态。
+
+以下为未来更换域名时的通用说明。
+
 域名可以在阿里云注册并继续由阿里云提供 DNS；网站由 GitHub Pages 托管。这里使用 `www.example.com` 作为演示，实际操作时替换成购买的域名。
 
 ## 先在 GitHub 配置，再添加 DNS
