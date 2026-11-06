@@ -1,5 +1,5 @@
 {
-  "title": "拍一张，还是拍到满意为止",
+  "title": "什么时候用函数，什么时候开子 agent",
   "slug": "one-shot-or-until-right",
   "excerpt": "起子 agent 的唯一理由，是它需要一个闭环。一旦存在同步屏障，闭环就必须收归主循环。",
   "category": "AI 实践",
