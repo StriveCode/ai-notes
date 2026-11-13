@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 236" width="760" height="236" font-family="PingFang SC, Hiragino Sans GB, Noto Sans SC, Microsoft YaHei, sans-serif">
+<rect width="760" height="236" rx="10" fill="#f9f9f6"/>
+<g font-size="15" fill="#3d3a33" text-anchor="middle">
+<rect x="20" y="34" width="150" height="58" rx="8" fill="#ffffff" stroke="#cfc8b8"/><text x="95" y="68">原文里有吗？</text>
+<rect x="210" y="34" width="150" height="58" rx="8" fill="#ffffff" stroke="#cfc8b8"/><text x="285" y="68">写进记忆了吗？</text>
+<rect x="400" y="34" width="150" height="58" rx="8" fill="#ffffff" stroke="#cfc8b8"/><text x="475" y="68">检索到了吗？</text>
+<rect x="590" y="34" width="150" height="58" rx="8" fill="#ffffff" stroke="#cfc8b8"/><text x="665" y="68">用对了吗？</text>
+</g>
+<g stroke="#9a9384" stroke-width="1.5"><line x1="172" y1="63" x2="200" y2="63"/><line x1="362" y1="63" x2="390" y2="63"/><line x1="552" y1="63" x2="580" y2="63"/></g>
+<g fill="#9a9384"><path d="M200 58 L208 63 L200 68 Z"/><path d="M390 58 L398 63 L390 68 Z"/><path d="M580 58 L588 63 L580 68 Z"/></g>
+<g font-size="12" fill="#3f5a33" text-anchor="middle"><text x="188" y="52">有</text><text x="378" y="52">有</text><text x="568" y="52">有</text></g>
+<g stroke="#c0705a" stroke-width="1.5" stroke-dasharray="4 3"><line x1="95" y1="94" x2="95" y2="128"/><line x1="285" y1="94" x2="285" y2="128"/><line x1="475" y1="94" x2="475" y2="128"/><line x1="665" y1="94" x2="665" y2="128"/></g>
+<g text-anchor="middle">
+<text x="95" y="152" font-size="14" fill="#8c3f2c">没有：不是记忆的锅</text><text x="95" y="176" font-size="12" fill="#7d776a">剧情本来就没交代</text>
+<text x="285" y="152" font-size="14" fill="#8c3f2c">没有：写入丢了</text><text x="285" y="176" font-size="12" fill="#7d776a">指代没消解、前因没存</text>
+<text x="475" y="152" font-size="14" fill="#8c3f2c">没有：读取丢了</text><text x="475" y="176" font-size="12" fill="#7d776a">问法和存法对不上</text>
+<text x="665" y="152" font-size="14" fill="#8c3f2c">没有：用错了</text><text x="665" y="176" font-size="12" fill="#7d776a">认错人、用了旧设定</text>
+</g>
+<text x="380" y="216" text-anchor="middle" font-size="13" fill="#7d776a">拿一个出错的拍，从左往右查，第一个“没有”就是信息丢掉的地方</text>
+</svg>
